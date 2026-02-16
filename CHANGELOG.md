@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.2.1 — Feb 2026
+- Introduced "AI OS" naming and positioning in README.
+- Expanded Review & Release Protocol with refactor and pruning clause.
+- Formalized governance principle (evolution over rigidity).
+- Clarified philosophy and modular overlay structure.
+
 ## v0.2 — Feb 2026
 - Added Platform & Capability Awareness layer.
 - Added structural reorganization suggestion rule for long-running threads.
